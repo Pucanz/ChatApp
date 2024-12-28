@@ -17,3 +17,5 @@ The server is responsible for receiving and managing messages from connected cli
 # Project Demo
 
 ![Project Demo](demo.gif)
+
+Enjoy it! 💬
