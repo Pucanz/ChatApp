@@ -14,6 +14,6 @@ The server is responsible for receiving and managing messages from connected cli
 - /quit: Allows users to exit the server
 
 
-# How to Contribute:
+# Project Demo
 
-Feel free to fork this project and submit pull requests with improvements and new features! 🚀
+![Project Demo](demo.gif)
